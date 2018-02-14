@@ -3,6 +3,8 @@
 * Creating a repository
 * Gathering, adding and commenting code
 * Handle branches
+* Stashing
+* Handle conflicts
 
 ## Creating a repo
 ### From Github
@@ -108,7 +110,7 @@ Your file will look like something like this
 print ("Hello World !")
 =======
 print ("Hello Me .")
->>>>>>> 4e2b407f501b68f8588aa645acafffa0224b9b78:mergetest
+>>>>>>> commit_id:mergetest
 ```
 * `<<<<` marks the start of the conflict
 * `====` marks the limit between comparaison
